@@ -1,1 +1,1 @@
-# SQL-Injection-JWT-lab
+# SQL-Injection-JWT
